@@ -2,7 +2,7 @@
 Language Uses: HTML, CSS, JAVASCRIPT
 ## ScreenShots
 ![Main Music Player](https://github.com/user-attachments/assets/480be9f4-f825-4786-bd06-6f4bcbf0331b)
-![Pause Music](https://github.com/user-attachments/assets/a26df482-7d1b-4c9e-9fa9-5cfb3ed6d764)
+![Ss](https://github.com/user-attachments/assets/09c32890-10cc-4c59-9a6b-3ed45914323e)
 
 JavaScript Code For User Interaction 👨‍💻
 ```javascript
